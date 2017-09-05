@@ -13,9 +13,9 @@ Additionally, you may also be interested in:
 + A YouTube video demonstrating the activity **(link to be made active
 September 2017)**
 
-**NOTE:** Github does not easily allow downloads of single files, as
-  such use the green "Clone or download" button to download a ZIP file
-  containing the above.
+**NOTE:** Github does not easily allow downloads of single
+  files. Either use the green "Clone or download" button to download a
+  ZIP file containing the above, or download the latest release.
 
 ### Browser-based App instructions
 
